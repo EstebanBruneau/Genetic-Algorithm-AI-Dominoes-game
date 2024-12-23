@@ -1,5 +1,6 @@
 # Machine-Learning-for-Dominoes-game
 This project is an AI-based player for the game of Dominoes. Machine learning is done by natural selection, and the AI has a Neural Network structure that is adaptable.
+Did not use any existing AI libraries.
 
 ## Features
 Play Modes:
